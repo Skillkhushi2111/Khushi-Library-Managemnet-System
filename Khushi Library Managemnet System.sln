@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Khushi Library Management System", "..\Khushi Library Management System\Khushi Library Management System.vdproj", "{88DB9828-94BC-4C0A-9E0F-1DDEA908C65A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DB9828-94BC-4C0A-9E0F-1DDEA908C65A}.Debug|Any CPU.ActiveCfg = Release
+		{88DB9828-94BC-4C0A-9E0F-1DDEA908C65A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E42C93E-49C9-444F-977D-2F5051966C4B}
+	EndGlobalSection
+EndGlobal
